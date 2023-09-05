@@ -1,0 +1,41 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Mrs", "first": "Emilia", "last": "Rosado" },
+      "location": {
+        "street": { "number": 4485, "name": "Viaducto Querétaro" },
+        "city": "Colonia Nuevo Morelos",
+        "state": "Ciudad de Mexico",
+        "country": "Mexico",
+        "postcode": 50314,
+        "coordinates": { "latitude": "25.5510", "longitude": "0.7940" },
+        "timezone": {
+          "offset": "-11:00",
+          "description": "Midway Island, Samoa"
+        }
+      },
+      "email": "emilia.rosado@example.com",
+      "login": {
+        "uuid": "5ca07f33-784c-47f5-b14d-3564b5d82789",
+        "username": "smallelephant406",
+        "password": "donovan",
+        "salt": "FsWD8wpg",
+        "md5": "27fe10d88f0bb3d79022fbdc9f64bcda",
+        "sha1": "2d079085a927f9b84e6b505042423b20d1a74642",
+        "sha256": "a093b7bcbc83ca570e6bc8cf4068b66cc8bb2b800fddee16f2ab3d172282f155"
+      },
+      "dob": { "date": "1967-03-11T18:41:18.901Z", "age": 56 },
+      "registered": { "date": "2007-06-16T17:40:30.248Z", "age": 16 },
+      "phone": "(638) 514 5525",
+      "cell": "(673) 009 3281",
+      "id": 1,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/67.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
+      }
+    }
+  ]
+  
+}
