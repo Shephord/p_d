@@ -994,13 +994,50 @@
       "registered": { "date": "2006-08-05T12:51:08.667Z", "age": 17 },
       "phone": "9010882353",
       "cell": "9541396973",
-      "id": 29,
+      "id": 28,
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/34.jpg",
         "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
         "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
       },
       "nat": "IN"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Francisco", "last": "Velásquez" },
+      "location": {
+        "street": { "number": 3410, "name": "Boulevard Norte Trejo" },
+        "city": "Guadalajara",
+        "state": "Yucatan",
+        "country": "Mexico",
+        "postcode": 87896,
+        "coordinates": { "latitude": "25.5781", "longitude": "-7.0655" },
+        "timezone": {
+          "offset": "+3:00",
+          "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+        }
+      },
+      "email": "francisco.velasquez@example.com",
+      "login": {
+        "uuid": "5f9525fd-67f3-4f14-b97a-7b5e1c84f09c",
+        "username": "heavyostrich496",
+        "password": "money",
+        "salt": "xD8p9grS",
+        "md5": "c3e524621ba6486d9e86a664cd99a95e",
+        "sha1": "17b5f73649731986c741287eb241b71fdc85a69f",
+        "sha256": "94a1eb6c22d52ea3b510e092ef1680582535eea0adf66a042d72f0399ec51a75"
+      },
+      "dob": { "date": "1986-09-20T20:55:47.903Z", "age": 36 },
+      "registered": { "date": "2008-12-05T03:07:00.658Z", "age": 14 },
+      "phone": "(618) 529 0674",
+      "cell": "(618) 760 5340",
+      "id": 29,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/92.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+      },
+      "nat": "MX"
     },
     {
       "gender": "male",
@@ -1768,11 +1805,5 @@
       },
       "nat": "CH"
     }
-  ],
-  "info": {
-    "seed": "99fa9c4af0424073",
-    "results": 50,
-    "page": 5,
-    "version": "1.4"
-  }
+  ]
 }
