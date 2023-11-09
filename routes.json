@@ -1,3 +1,4 @@
 {
-  "/api/follow*": "/$1"
+  "/api/follow*": "/$1",
+  "/api/users": "/users"
 }
