@@ -5,15 +5,12 @@
       "gender": "female",
       "follow": 1,
       "name": { "first": "Emilia", "last": "Rosado" },
-      "": { "number": 4485, "name": "Viaducto Querétaro" },
       "city": "Colonia Nuevo Morelos",
       "country": "Mexico",
       "postcode": 50314,
       "email": "emilia.rosado@example.com",
-      "login": {
-        "username": "smallelephant406",
-        "password": "donovan"
-      },
+      "username": "smallelephant406",
+      "password": "donovan",
       "phone": "(638) 514 5525",
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/67.jpg",
@@ -29,11 +26,9 @@
       "country": "India",
       "postcode": 27271,
       "email": "fitan.saldanha@example.com",
-      "login": {
-        "username": "organicwolf334",
-        "password": "baldwin"
-      },
 
+      "username": "organicwolf334",
+      "password": "baldwin",
       "phone": "8242999038",
       "id": 2,
       "picture": {
@@ -54,11 +49,9 @@
       "postcode": 27578,
 
       "email": "judd.romero@example.com",
-      "login": {
-        "username": "bigkoala878",
-        "password": "douglas"
-      },
 
+      "username": "bigkoala878",
+      "password": "douglas",
       "phone": "(204) 869-0627",
 
       "id": 3,
@@ -78,11 +71,9 @@
       "country": "Mexico",
       "postcode": 50518,
       "email": "abelardo.caban@example.com",
-      "login": {
-        "username": "silverswan367",
-        "password": "jonathon"
-      },
 
+      "username": "silverswan367",
+      "password": "jonathon",
       "phone": "(614) 707 9519",
 
       "id": 4,
@@ -104,14 +95,10 @@
       "postcode": 50990,
 
       "email": "ema.fernandes@example.com",
-      "login": {
-        "username": "organicrabbit256",
-        "password": "topher"
-      },
-      "": { "date": "1945-03-15", "age": 78 },
-      "": { "date": "2022-01-29T22:44:43.191Z", "age": 1 },
+
+      "username": "organicrabbit256",
+      "password": "topher",
       "phone": "(03) 1228-6886",
-      "": "(96) 3609-0724",
       "id": 5,
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/73.jpg",
@@ -131,11 +118,9 @@
       "postcode": 86584,
 
       "email": "josefine.moller@example.com",
-      "login": {
-        "username": "crazymouse148",
-        "password": "valhalla"
-      },
 
+      "username": "crazymouse148",
+      "password": "valhalla",
       "phone": "93294991",
 
       "id": 6,
@@ -157,11 +142,9 @@
       "postcode": "1214",
 
       "email": "rebekka.rohne@example.com",
-      "login": {
-        "username": "blackcat149",
-        "password": "mustard"
-      },
 
+      "username": "blackcat149",
+      "password": "mustard",
       "phone": "85431846",
 
       "id": 7,
@@ -183,11 +166,9 @@
       "postcode": 80829,
 
       "email": "akseli.kalas@example.com",
-      "login": {
-        "username": "tinyelephant668",
-        "password": "burner"
-      },
 
+      "username": "tinyelephant668",
+      "password": "burner",
       "phone": "05-449-607",
 
       "id": 8,
@@ -209,11 +190,9 @@
       "postcode": 66647,
 
       "email": "anaelle.richard@example.com",
-      "login": {
-        "username": "crazymeercat131",
-        "password": "richie"
-      },
 
+      "username": "crazymeercat131",
+      "password": "richie",
       "phone": "01-87-56-91-18",
 
       "id": 9,
@@ -235,11 +214,9 @@
       "postcode": 91274,
 
       "email": "siegward.feist@example.com",
-      "login": {
-        "username": "lazywolf869",
-        "password": "eastwood"
-      },
 
+      "username": "lazywolf869",
+      "password": "eastwood",
       "phone": "0264-9091259",
 
       "id": 10,
@@ -261,11 +238,9 @@
       "postcode": "A7Y 8L5",
 
       "email": "philippe.singh@example.com",
-      "login": {
-        "username": "yellowpeacock769",
-        "password": "squeak"
-      },
 
+      "username": "yellowpeacock769",
+      "password": "squeak",
       "phone": "Z09 V66-7707",
 
       "id": 11,
@@ -287,11 +262,9 @@
       "postcode": 32219,
 
       "email": "louanne.jean@example.com",
-      "login": {
-        "username": "happyleopard160",
-        "password": "squirrel"
-      },
 
+      "username": "happyleopard160",
+      "password": "squirrel",
       "phone": "03-18-93-86-26",
 
       "id": 12,
@@ -313,11 +286,9 @@
       "postcode": 96533,
 
       "email": "rafael.santillan@example.com",
-      "login": {
-        "username": "redcat628",
-        "password": "megane"
-      },
 
+      "username": "redcat628",
+      "password": "megane",
       "phone": "(654) 739 4326",
 
       "id": 13,
@@ -339,11 +310,9 @@
       "postcode": 94670,
 
       "email": "pihla.lehtinen@example.com",
-      "login": {
-        "username": "bigtiger921",
-        "password": "rolling"
-      },
 
+      "username": "bigtiger921",
+      "password": "rolling",
       "phone": "02-902-342",
 
       "id": 14,
@@ -365,11 +334,9 @@
       "postcode": 53523,
 
       "email": "lylou.fabre@example.com",
-      "login": {
-        "username": "brownfrog272",
-        "password": "seneca"
-      },
 
+      "username": "brownfrog272",
+      "password": "seneca",
       "phone": "03-66-52-27-51",
 
       "id": 15,
@@ -391,11 +358,9 @@
       "postcode": 3899,
 
       "email": "alfred.fernandez@example.com",
-      "login": {
-        "username": "goldenmeercat851",
-        "password": "fruit"
-      },
 
+      "username": "goldenmeercat851",
+      "password": "fruit",
       "phone": "077 620 70 70",
 
       "id": 16,
@@ -415,10 +380,9 @@
       "postcode": 98337,
 
       "email": "nikolaj.sorensen@example.com",
-      "login": {
-        "username": "orangewolf340",
-        "password": "killme"
-      },
+
+      "username": "orangewolf340",
+      "password": "killme",
       "phone": "66176448",
       "id": 17,
       "picture": {
@@ -439,11 +403,9 @@
       "postcode": 92745,
 
       "email": "rishi.raval@example.com",
-      "login": {
-        "username": "happybird114",
-        "password": "joyce"
-      },
 
+      "username": "happybird114",
+      "password": "joyce",
       "phone": "9190360807",
 
       "id": 18,
@@ -465,11 +427,9 @@
       "postcode": 31291,
 
       "email": "dhanush.bhardwaj@example.com",
-      "login": {
-        "username": "tinybutterfly614",
-        "password": "kungfu"
-      },
 
+      "username": "tinybutterfly614",
+      "password": "kungfu",
       "phone": "8162623484",
 
       "id": 19,
@@ -491,11 +451,9 @@
       "postcode": 85534,
 
       "email": "veeti.juntunen@example.com",
-      "login": {
-        "username": "sadmouse398",
-        "password": "dogdog"
-      },
 
+      "username": "sadmouse398",
+      "password": "dogdog",
       "phone": "02-104-713",
 
       "id": 20,
@@ -517,11 +475,9 @@
       "postcode": "U75 3ER",
 
       "email": "eli.hunt@example.com",
-      "login": {
-        "username": "purpleduck282",
-        "password": "profit"
-      },
 
+      "username": "purpleduck282",
+      "password": "profit",
       "phone": "016973 71206",
 
       "id": 21,
@@ -543,11 +499,9 @@
       "postcode": 26938,
 
       "email": "hemang.holla@example.com",
-      "login": {
-        "username": "bigladybug576",
-        "password": "rated"
-      },
 
+      "username": "bigladybug576",
+      "password": "rated",
       "phone": "7135730039",
 
       "id": 22,
@@ -569,11 +523,9 @@
       "postcode": 84467,
 
       "email": "marcus.ross@example.com",
-      "login": {
-        "username": "goldendog493",
-        "password": "navajo"
-      },
 
+      "username": "goldendog493",
+      "password": "navajo",
       "phone": "071-301-9354",
 
       "id": 23,
@@ -595,11 +547,9 @@
       "postcode": 11805,
 
       "email": "charles.hecker@example.com",
-      "login": {
-        "username": "ticklishfish935",
-        "password": "lekker"
-      },
 
+      "username": "ticklishfish935",
+      "password": "lekker",
       "phone": "0246-0801478",
 
       "id": 24,
@@ -621,11 +571,9 @@
       "postcode": "SU01 6DT",
 
       "email": "kelly.alexander@example.com",
-      "login": {
-        "username": "purpleladybug559",
-        "password": "billybob"
-      },
 
+      "username": "purpleladybug559",
+      "password": "billybob",
       "phone": "015242 22293",
 
       "id": 25,
@@ -647,11 +595,9 @@
       "postcode": 43130,
 
       "email": "galina.kruglyak@example.com",
-      "login": {
-        "username": "happybear598",
-        "password": "vivid"
-      },
 
+      "username": "happybear598",
+      "password": "vivid",
       "phone": "(097) V20-2210",
 
       "id": 26,
@@ -673,11 +619,9 @@
       "postcode": 28510,
 
       "email": "sacha.carpentier@example.com",
-      "login": {
-        "username": "goldenzebra924",
-        "password": "pass1"
-      },
 
+      "username": "goldenzebra924",
+      "password": "pass1",
       "phone": "02-93-88-09-07",
 
       "id": 27,
@@ -699,11 +643,9 @@
       "postcode": 51711,
 
       "email": "kavyashri.dsouza@example.com",
-      "login": {
-        "username": "purplegoose798",
-        "password": "robotics"
-      },
 
+      "username": "purplegoose798",
+      "password": "robotics",
       "phone": "9010882353",
 
       "id": 28,
@@ -725,11 +667,9 @@
       "postcode": 87896,
 
       "email": "francisco.velasquez@example.com",
-      "login": {
-        "username": "heavyostrich496",
-        "password": "money"
-      },
 
+      "username": "heavyostrich496",
+      "password": "money",
       "phone": "(618) 529 0674",
 
       "id": 29,
@@ -751,11 +691,9 @@
       "postcode": "3177",
 
       "email": "vegar.eggan@example.com",
-      "login": {
-        "username": "brownsnake247",
-        "password": "camelot"
-      },
 
+      "username": "brownsnake247",
+      "password": "camelot",
       "phone": "70327701",
 
       "id": 30,
@@ -777,11 +715,9 @@
       "postcode": 64315,
 
       "email": "isolina.daconceicao@example.com",
-      "login": {
-        "username": "heavydog242",
-        "password": "answer"
-      },
 
+      "username": "heavydog242",
+      "password": "answer",
       "phone": "(79) 3590-8803",
 
       "id": 31,
@@ -803,11 +739,9 @@
       "postcode": 59823,
 
       "email": "hsn.mhmdkhn@example.com",
-      "login": {
-        "username": "purplelion884",
-        "password": "nian"
-      },
 
+      "username": "purplelion884",
+      "password": "nian",
       "phone": "043-86555410",
 
       "id": 32,
@@ -829,11 +763,9 @@
       "postcode": 9808,
 
       "email": "luca.blanc@example.com",
-      "login": {
-        "username": "happypanda672",
-        "password": "bacon"
-      },
 
+      "username": "happypanda672",
+      "password": "bacon",
       "phone": "075 370 09 13",
 
       "id": 33,
@@ -855,11 +787,9 @@
       "postcode": 24420,
 
       "email": "antonio.granados@example.com",
-      "login": {
-        "username": "purplesnake783",
-        "password": "isabelle"
-      },
 
+      "username": "purplesnake783",
+      "password": "isabelle",
       "phone": "(668) 857 1029",
 
       "id": 34,
@@ -881,11 +811,9 @@
       "postcode": 99618,
 
       "email": "edmur.cavalcanti@example.com",
-      "login": {
-        "username": "angryfish470",
-        "password": "studio"
-      },
 
+      "username": "angryfish470",
+      "password": "studio",
       "phone": "(01) 3732-4355",
 
       "id": 35,
@@ -907,11 +835,9 @@
       "postcode": 84597,
 
       "email": "deniz.ozgorkey@example.com",
-      "login": {
-        "username": "ticklishgorilla998",
-        "password": "clifton"
-      },
 
+      "username": "ticklishgorilla998",
+      "password": "clifton",
       "phone": "(158)-578-3687",
 
       "id": 36,
@@ -933,11 +859,9 @@
       "postcode": 49674,
 
       "email": "teerth.uchil@example.com",
-      "login": {
-        "username": "orangelion450",
-        "password": "8989"
-      },
 
+      "username": "orangelion450",
+      "password": "8989",
       "phone": "7467597149",
 
       "id": 37,
@@ -959,11 +883,9 @@
       "postcode": 70773,
 
       "email": "iiris.peura@example.com",
-      "login": {
-        "username": "lazyswan378",
-        "password": "server"
-      },
 
+      "username": "lazyswan378",
+      "password": "server",
       "phone": "05-400-628",
 
       "id": 38,
@@ -985,11 +907,9 @@
       "postcode": 69120,
 
       "email": "rosa.rodriguez@example.com",
-      "login": {
-        "username": "tinydog893",
-        "password": "warez"
-      },
 
+      "username": "tinydog893",
+      "password": "warez",
       "phone": "(661) 119 1313",
 
       "id": 39,
@@ -1011,11 +931,9 @@
       "postcode": 69792,
 
       "email": "maelyne.noel@example.com",
-      "login": {
-        "username": "ticklishpanda325",
-        "password": "brent"
-      },
 
+      "username": "ticklishpanda325",
+      "password": "brent",
       "phone": "03-47-56-13-68",
       "id": 40,
       "picture": {
@@ -1036,11 +954,9 @@
       "postcode": 28867,
 
       "email": "hmd.sltnynjd@example.com",
-      "login": {
-        "username": "goldenfish111",
-        "password": "nope"
-      },
 
+      "username": "goldenfish111",
+      "password": "nope",
       "phone": "094-06289666",
       "id": 41,
       "picture": {
@@ -1059,10 +975,9 @@
       "postcode": 22901,
 
       "email": "miroslav.panchik@example.com",
-      "login": {
-        "username": "brownfrog936",
-        "password": "homemade"
-      },
+
+      "username": "brownfrog936",
+      "password": "homemade",
       "phone": "(067) U12-0770",
       "id": 42,
       "picture": {
@@ -1081,10 +996,9 @@
       "country": "Brazil",
       "postcode": 44603,
       "email": "marilei.farias@example.com",
-      "login": {
-        "username": "silvertiger489",
-        "password": "beer"
-      },
+
+      "username": "silvertiger489",
+      "password": "beer",
       "phone": "(03) 5925-7662",
       "id": 43,
       "picture": {
@@ -1105,11 +1019,9 @@
       "postcode": "8312 SW",
 
       "email": "jakub.hart@example.com",
-      "login": {
-        "username": "orangeleopard274",
-        "password": "badger"
-      },
 
+      "username": "orangeleopard274",
+      "password": "badger",
       "phone": "(0208) 503207",
 
       "id": 44,
@@ -1130,11 +1042,9 @@
       "postcode": 94321,
 
       "email": "virginia.carrasco@example.com",
-      "login": {
-        "username": "yellowzebra238",
-        "password": "moon"
-      },
 
+      "username": "yellowzebra238",
+      "password": "moon",
       "phone": "936-759-780",
       "id": 45,
       "picture": {
@@ -1154,11 +1064,9 @@
       "country": "United s",
       "postcode": 32563,
       "email": "gina.nichols@example.com",
-      "login": {
-        "username": "angrydog237",
-        "password": "191919"
-      },
 
+      "username": "angrydog237",
+      "password": "191919",
       "phone": "(350) 829-8834",
 
       "id": 46,
@@ -1179,11 +1087,9 @@
       "country": "India",
       "postcode": 36088,
       "email": "bakhshi.nayak@example.com",
-      "login": {
-        "username": "organicrabbit757",
-        "password": "norman"
-      },
 
+      "username": "organicrabbit757",
+      "password": "norman",
       "phone": "8922061302",
 
       "id": 47,
@@ -1205,11 +1111,9 @@
       "postcode": "0791",
 
       "email": "fride.horgen@example.com",
-      "login": {
-        "username": "heavymeercat347",
-        "password": "edward1"
-      },
 
+      "username": "heavymeercat347",
+      "password": "edward1",
       "phone": "38172460",
 
       "id": 48,
@@ -1231,11 +1135,9 @@
       "postcode": 77765,
 
       "email": "alex.carrasco@example.com",
-      "login": {
-        "username": "tinycat115",
-        "password": "bikini"
-      },
 
+      "username": "tinycat115",
+      "password": "bikini",
       "phone": "929-637-306",
 
       "id": 49,
@@ -1260,11 +1162,9 @@
       "postcode": 9010,
 
       "email": "irene.blanchard@example.com",
-      "login": {
-        "username": "beautifulcat290",
-        "password": "mmmmmmmm"
-      },
 
+      "username": "beautifulcat290",
+      "password": "mmmmmmmm",
       "phone": "079 721 50 03",
 
       "id": 50,
