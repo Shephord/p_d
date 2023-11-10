@@ -1,26 +1,22 @@
 {
   "users": [
     {
-      "data": {
-        "id": 1,
-        "gender": "female",
-        "follow": 1,
-        "name": { "first": "Emilia", "last": "Rosado" },
-        "city": "Colonia Nuevo Morelos",
-        "country": "Mexico",
-        "postcode": 50314,
-        "email": "emilia.rosado@example.com",
-        "username": "smallelephant406",
-        "password": "donovan",
-        "phone": "(638) 514 5525",
-        "picture": {
-          "large": "https://randomuser.me/api/portraits/women/67.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
-        }
-      },
-      "message": {},
-      "resultCode": 0
+      "id": 1,
+      "gender": "female",
+      "follow": 1,
+      "name": { "first": "Emilia", "last": "Rosado" },
+      "city": "Colonia Nuevo Morelos",
+      "country": "Mexico",
+      "postcode": 50314,
+      "email": "emilia.rosado@example.com",
+      "username": "smallelephant406",
+      "password": "donovan",
+      "phone": "(638) 514 5525",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/67.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
+      }
     },
     {
       "gender": "male",
