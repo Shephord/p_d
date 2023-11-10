@@ -1275,5 +1275,67 @@
       },
       "nat": "CH"
     }
+  ],
+  "follows": [
+    {
+      "id": 1,
+      "resulteCode": 0
+    },
+    {
+      "id": 2,
+      "resulteCode": 0
+    },
+    {
+      "id": 3,
+      "resulteCode": 0
+    },
+    {
+      "id": 4,
+      "resulteCode": 0
+    },
+    {
+      "id": 5,
+      "resulteCode": 0
+    },
+    {
+      "id": 6,
+      "resulteCode": 0
+    },
+    {
+      "id": 7,
+      "resulteCode": 1
+    },
+    {
+      "id": 8,
+      "resulteCode": 1
+    },
+    {
+      "id": 8,
+      "resulteCode": 1
+    },
+    {
+      "id": 10,
+      "resulteCode": 1
+    },
+    {
+      "id": 11,
+      "resulteCode": 1
+    },
+    {
+      "id": 12,
+      "resulteCode": 1
+    },
+    {
+      "id": 13,
+      "resulteCode": 1
+    },
+    {
+      "id": 14,
+      "resulteCode": 1
+    },
+    {
+      "id": 15,
+      "resulteCode": 1
+    }
   ]
 }
