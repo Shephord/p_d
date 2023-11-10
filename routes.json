@@ -1,4 +1,4 @@
 {
-  "/api/follow": "/:id",
+  "/api/follows": "/:id",
   "/api/person": "/users"
 }
